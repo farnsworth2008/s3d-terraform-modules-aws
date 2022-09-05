@@ -1,0 +1,3 @@
+[submodule "cloudfront"]
+	path = cloudfront
+	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
